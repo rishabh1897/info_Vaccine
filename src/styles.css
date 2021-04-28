@@ -1,6 +1,8 @@
 .App {
   font-family: sans-serif;
   text-align: center;
-  background-image: url(https://ysm-res.cloudinary.com/image/upload/ar_16:9,c_fill,dpr_1.0,f_auto,g_faces:auto,q_auto:eco,w_1400/v1/yale-medicine/live-prod/ym_new/images/6117d506-0da7-463e-9973-527889dc2b31_tcm990-407483.jpg);
-  background-size: 70%;
+  /*//background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDohtYT64Gqcvw7xOIEChZThDN366MUNIPYg&usqp=CAU);
+  background-size: 62%;
+  opacity: 0.9;*/
+  background: url(https://www.telegraph.co.uk/content/dam/business/2020/06/07/People-climing-a-mountain-of-drugs-syringes-and-tablets_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7BLl5GhlglFoSG-9WaViRts.jpg);
 }
